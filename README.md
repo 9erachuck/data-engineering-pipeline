@@ -1,2 +1,2 @@
-# data-engineering-ml-pipeline
-End-to-end data engineering and machine learning pipeline using Airflow and FastAPI
+# data-engineering-pipeline
+End-to-end data engineering pipeline that ingests and processes data from multiple APIs, transforms and unifies datasets, and orchestrates workflows using Airflow.
